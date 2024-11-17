@@ -13,7 +13,8 @@ OpenCV has c, c++, java, and Python interfaces and it supports all kinds of syst
 **Tkinter:** Tkinter is a standard Graphical User Interface(GUI) package.
 
 
-_**__sports car prediction ___**_
+**__Sports car prediction ___**
+
 As sports fans, we all love to predict the outcome of games. Whether it’s the Super Bowl, the World Cup, or the NBA Finals, we eagerly analyze team performance, player statistics, and other factors to try to guess who will come out on top. But what if we could use data science to make more accurate predictions? In this article, we’ll explore how machine learning algorithms can be used to predict the outcome of sports events, and we’ll provide some code examples to illustrate the process.
 
 One of the most common approaches to predicting sports outcomes is supervised learning, a type of machine learning algorithm that uses labeled data to train a model. In the case of sports prediction, the labeled data might include historical records of game outcomes, along with data about the teams, players, and other relevant factors.
