@@ -11,7 +11,8 @@ OpenCV has c, c++, java, and Python interfaces and it supports all kinds of syst
 **Matplotlib:** Matplotlib is used for visualization purposes. Here we plot the images using matplotlib.
 **OS:** Here in our application os is used for dealing with paths like reading images from the path and saving the image to the path.
 **Tkinter:** Tkinter is a standard Graphical User Interface(GUI) package.
-_
+
+
 _**__sports car prediction ___**_
 As sports fans, we all love to predict the outcome of games. Whether it’s the Super Bowl, the World Cup, or the NBA Finals, we eagerly analyze team performance, player statistics, and other factors to try to guess who will come out on top. But what if we could use data science to make more accurate predictions? In this article, we’ll explore how machine learning algorithms can be used to predict the outcome of sports events, and we’ll provide some code examples to illustrate the process.
 
